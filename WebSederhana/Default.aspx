@@ -14,9 +14,21 @@
             
         </div>
         
-        <ul id="navigation">
-
-        </ul>
+        <div id="navigation">
+            <ul id="nav">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Akatsuki</a>
+                    <ul>
+                        <li><a href="#">Hyosoka</a></li>
+                        <li><a href="#">Poipo</a></li>
+                        <li><a href="#">Itachi</a></li>
+                        <li><a href="#">Izanami</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Jutsu</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </div>
 
         <div id="content_area">
 
