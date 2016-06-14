@@ -67,6 +67,11 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Images\banner.jpg" />
+    <Content Include="Images\bar_background.png" />
+    <Content Include="Images\coffee1.png" />
+    <Content Include="Images\coffee2.png" />
+    <Content Include="Images\coffee3.png" />
     <Content Include="Styles\stylesheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
