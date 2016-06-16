@@ -45,7 +45,7 @@
     height:50px;
 }
 
-    #nav li ul li {
+#nav li ul li {
     background-image:url(../Images/bar_background.png);
     background-size: cover;
     background-repeat: no-repeat;
