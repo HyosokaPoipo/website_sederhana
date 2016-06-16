@@ -23,6 +23,7 @@
     border: 3px solid #E3E3E3;
     margin-top: 20px;
     background-image:url(../Images/bar_background.png);    
+    text-shadow: 0.1em 0.1em #0be9f7;
 }
 
 #nav {
@@ -50,7 +51,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     border: 3px solid #0be9f7;
-    padding-left:10px;
+    padding-left:10px;  
+    padding-left:10px;  
     }
 
 #nav a:link, #nav a:active, #nav a:visited{
@@ -62,6 +64,11 @@
 #nav a:hover{
     color:lightblue;
 }
+
+#nav li:hover ul {
+    display:block;
+ }
+
 
 #content_area {
     float:left;
@@ -87,4 +94,12 @@
     height:40px;
     margin-top:20px;
     background-image:url(../Images/bar_background.png);
+    text-shadow:0.1em 0.1em #ff0000;
+    text-align:center;    
+}
+
+.izanami {
+    display: inline-block;
+    position: relative;
+    right: -25%;
 }
