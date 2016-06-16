@@ -1,0 +1,6 @@
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\bin\WebSederhana.dll.config
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\bin\WebSederhana.dll
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\bin\WebSederhana.pdb
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\obj\Release\WebSederhana.csprojResolveAssemblyReference.cache
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\obj\Release\WebSederhana.dll
+E:\C Sharp\SourceCode\ASP NET\WebSederhana\WebSederhana\obj\Release\WebSederhana.pdb
